@@ -22,7 +22,7 @@ file_put_contents("gif.txt",$Data1 );
 	}
 
 
-	$token = 'توکن رو اینجا قرار بدید';
+	$token = '338327518:AAHWO6Pk6KeAWwEoFy8NJ7jLjk-kKCoVErY';
 
 
 	$result = objectToArray($string);
@@ -32,8 +32,8 @@ file_put_contents("gif.txt",$Data1 );
 
 	file_put_contents("user_id.txt",$user_id );
 
-	$channel_id = ' آدرس کانال';
-	$label = '@ تگ کانال';
+	$channel_id = ' https://t.me/tesChaneel';
+	$label = '@teschaneel';
 	
 	$sent = 'پست مورد نظر در کانال ' . $channel_id . ' فرستاده شد 😊' ;
 	
